@@ -1,18 +1,28 @@
 
-  # Restaurant Reservation Management App
+  # Aplicación de gestión de reservas de restaurantes
 
-  ## Running the code
+  ## Instalación y Ejecución
+
+### 1. Clonar el repositorio 
+
+ ```powershell
+          git clone https://github.com/zcrypt83/restaurantepro.git
+  ```
+
+
+  ## Ejecutando el código
+
 
   Run  
   ```powershell
          npm i
   ```
-  to install the dependencies.
+  para instalar las dependencias.
 
   Run
   ```powershell
          npm run dev
   ```
  
-  to start the development server.
+  para iniciar el servidor de desarrollo.
   
